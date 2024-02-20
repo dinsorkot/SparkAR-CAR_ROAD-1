@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "city(1)",
+  "identifier": "texture:89650-f7fc1bf6-6d18-4c97-844b-f6ff2fa7de0e",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "4af562c6633501765c5b10c27a98fceb",
+  "assetLocator": "textures/city(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 576,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "4af562c6633501765c5b10c27a98fceb",
+      "colorCount": 29934,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.904353552727136,
+      "pixelsHigh": 576,
+      "pixelsWide": 1024
+    }
+  ]
+}
